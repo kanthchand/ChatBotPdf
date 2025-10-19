@@ -1,7 +1,6 @@
 # app.py
 
 import os
-from google.genai import types
 import io
 from dotenv import load_dotenv
 from google.genai.types import HttpOptions, Part
